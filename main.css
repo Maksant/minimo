@@ -1,0 +1,112 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+header{
+height: 120px;
+margin:5vh;
+}
+header ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    
+}
+header ul li{
+padding:5px 0 0 0;
+
+
+}
+header ul li a{
+    color: #626262;
+    text-transform: uppercase;
+    font-size:14px;
+    
+    
+}
+header ul li a:hover{
+    color:#000;
+}
+.page{
+    
+    margin: 80px;
+    
+}
+.page h2{
+    padding-top: 15px;
+    color:#626262;
+    text-transform: uppercase;
+}
+
+.page p{
+    padding-top: 15px;
+    color:#626262;
+    
+    
+}
+.page span{
+    color: #c2bcbd;
+    text-transform: uppercase;
+    
+} 
+
+ section .page a{ 
+    color:#d5d1c8;
+    text-transform: uppercase;
+    font-size: 12px;
+    position: absolute;
+      
+}
+.page a:hover{
+    color: burlywood;
+}
+
+.photo{
+    margin: 68px;
+}
+.col{
+    padding: 45px;
+
+
+    
+}
+.col span{
+  color: #c2bcbd;
+  text-transform: uppercase;
+}
+.col h2{
+    padding-top: 15px;
+    color: #626262;
+    text-transform: uppercase;
+}
+.col p{
+    padding-top: 15px;
+    color: #626266;
+}
+.newsletter .col-12{
+ background: #c2bcbd;
+ display: flex;
+ justify-content: center;
+ align-items: center; 
+ height: 300px;
+ 
+    
+
+}
+.newsletter form input{
+    outline: none;
+    background: #c2bcbd;
+    border: none;
+    
+}
+.sraka  .col-2{
+    
+}
+
+
+    
+
+
+
+
+
